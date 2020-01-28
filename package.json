@@ -1,0 +1,16 @@
+{
+  "name": "marko-vision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "marko": "^4.18.35",
+    "vision": "^5.4.4"
+  }
+}
